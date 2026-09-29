@@ -5,7 +5,7 @@ Soy un desarrollador apasionado por crear soluciones a través del código.
 * 🌍 Siempre buscando aprender nuevas tecnologías.
 * 🌱 Actualmente aprendiendo e investigando nuevas herramientas.
 * 👯 Buscando colaborar en proyectos open source.
-* 📫 Cómo contactarme: [Añade tu correo o red social aquí]
+* 📫 Cómo contactarme: [hectrocabarcas2013@gmail.com]
 
 ## 🛠️ Tecnologías y Herramientas
 
