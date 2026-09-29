@@ -24,8 +24,8 @@ Soy un desarrollador apasionado por crear soluciones a través del código.
 ## 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaintChoppa&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaintChoppa&layout=compact&theme=radical" alt="Lenguajes Top" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=SaintChoppa&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SaintChoppa&layout=compact&theme=radical" alt="Lenguajes Top" />
 </div>
 
 <br>
